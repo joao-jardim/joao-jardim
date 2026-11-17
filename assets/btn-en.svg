@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="115" height="44" viewBox="0 0 115 44" role="img" aria-label="English"><title>English</title><style>
-.bg{fill:#EDF1EF}.bg2{fill:#E1E8E5}.ink{fill:#1A2422}.slate{fill:#4F5F5B}.v{fill:#23806F}.p{fill:#B8901C}.red{fill:#B5473A}
+.bg{fill:#F6F7FB}.bg2{fill:#E9ECF5}.ink{fill:#1B1F2A}.slate{fill:#5A6072}.v{fill:#23806F}.p{fill:#B8901C}.red{fill:#B5473A}
 .cl{fill:none;stroke:#23806F;stroke-opacity:.28;stroke-width:1}.cm{fill:none;stroke:#23806F;stroke-opacity:.55;stroke-width:1.2}
-.sv{stroke:#23806F}.sp{stroke:#B8901C}.si{stroke:#1A2422}.ss{stroke:#4F5F5B}.sl{stroke:#C3CFCB}.sr{stroke:#B5473A}.panel{fill:#EDF1EF;fill-opacity:.9}
-text{paint-order:stroke;stroke:#EDF1EF;stroke-width:4px;stroke-linejoin:round}.nh{stroke:none}
+.sv{stroke:#23806F}.sp{stroke:#B8901C}.si{stroke:#1B1F2A}.ss{stroke:#5A6072}.sl{stroke:#D5D9E5}.sr{stroke:#B5473A}.panel{fill:#F6F7FB;fill-opacity:.9}
+text{paint-order:stroke;stroke:#F6F7FB;stroke-width:4px;stroke-linejoin:round}.nh{stroke:none}
 text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
 .mono{font-variant-numeric:tabular-nums}
 @media (prefers-color-scheme:dark){
-.bg{fill:#141B1A}.bg2{fill:#1C2523}.ink{fill:#E4ECE9}.slate{fill:#9DB0AB}.v{fill:#5CC2AE}.p{fill:#E2B940}.red{fill:#E07A6C}
+.bg{fill:#12151D}.bg2{fill:#1C2130}.ink{fill:#E8EAF2}.slate{fill:#A3A9BC}.v{fill:#5CC2AE}.p{fill:#E2B940}.red{fill:#E07A6C}
 .cl{stroke:#5CC2AE;stroke-opacity:.22}.cm{stroke:#5CC2AE;stroke-opacity:.45}
-.sv{stroke:#5CC2AE}.sp{stroke:#E2B940}.si{stroke:#E4ECE9}.ss{stroke:#9DB0AB}.sl{stroke:#2E3B38}.sr{stroke:#E07A6C}.panel{fill:#141B1A;fill-opacity:.88}text{stroke:#141B1A}.nh{stroke:none}}
-</style><rect x="1" y="1" width="113" height="42" rx="21" class="bg2"/><rect x="1" y="1" width="113" height="42" rx="21" fill="none" class="sv" stroke-opacity=".35" stroke-width="1.2"/><g transform="translate(26,22)"><path d="M-8,-7 h9 M-3.5,-9 v2 M-6.5,-7 c1,5 4,8 7,9 M0.5,-7 c-1,4 -4,7 -8,9" fill="none" class="sv" stroke-width="1.6" stroke-linecap="round"/><path d="M1,8 L5,-1 L9,8 M2.6,4.6 h4.8" fill="none" class="sv" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g><text x="44" y="27.5" class="ink nh" font-size="15" font-weight="650">English</text></svg>
+.sv{stroke:#5CC2AE}.sp{stroke:#E2B940}.si{stroke:#E8EAF2}.ss{stroke:#A3A9BC}.sl{stroke:#2C3242}.sr{stroke:#E07A6C}.panel{fill:#12151D;fill-opacity:.88}text{stroke:#12151D}.nh{stroke:none}}
+</style><style id="accent">.bg2{fill:#14A57A}.ink{fill:#FFFFFF}.sv{stroke:#FFFFFF}</style><rect x="1" y="1" width="113" height="42" rx="21" class="bg2"/><rect x="1" y="1" width="113" height="42" rx="21" fill="none" class="sv" stroke-opacity=".35" stroke-width="1.2"/><g transform="translate(26,22)"><path d="M-8,-7 h9 M-3.5,-9 v2 M-6.5,-7 c1,5 4,8 7,9 M0.5,-7 c-1,4 -4,7 -8,9" fill="none" class="sv" stroke-width="1.6" stroke-linecap="round"/><path d="M1,8 L5,-1 L9,8 M2.6,4.6 h4.8" fill="none" class="sv" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g><text x="44" y="27.5" class="ink nh" font-size="15" font-weight="650">English</text></svg>
